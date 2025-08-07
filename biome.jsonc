@@ -13,7 +13,8 @@
       "!**/build/**/*.{ts,tsx,js,jsx,json,jsonc,md}",
       "!**/generated/**/*.{ts,tsx,js,jsx,json,jsonc,md}",
       "!**/.output/**/*.{ts,tsx,js,jsx,json,jsonc,md}",
-      "!**/*.gen.{ts,tsx,js,jsx,json,jsonc,md}"
+      "!**/*.gen.{ts,tsx,js,jsx,json,jsonc,md}",
+      "!**/worker-configuration.d.ts"
     ],
     "ignoreUnknown": true
   },
