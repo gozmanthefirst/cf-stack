@@ -4,6 +4,9 @@
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
+    "lint": "biome lint --write --unsafe",
+    "format": "biome format --write",
+    "check": "biome check --write --unsafe --files-ignore-unknown=true",
     "check-types": "turbo run check-types",
     "prepare": "husky"
   },
