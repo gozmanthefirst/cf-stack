@@ -1,3 +1,3 @@
 # Cloudflare Stack
 
-A monorepo with Hono and TanStack Start, to be deployed on Cloudflare.
+A Turborepo + Hono + TanStack Start setup, with deployment to Cloudflare.
