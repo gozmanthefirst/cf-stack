@@ -8,6 +8,9 @@
   "observability": {
     "enabled": true,
     "head_sampling_rate": 1
+  },
+  "dev": {
+    "port": 8000
   }
   // "vars": {
   //   "MY_VAR": "my-variable"
