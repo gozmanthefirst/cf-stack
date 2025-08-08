@@ -16,7 +16,7 @@ app.get("/", (c) => {
 });
 
 app.get("/wtf", (c) => {
-  return c.text("WTF!");
+  return c.text("WTF, dude!");
 });
 
 export default app;
